@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2027届岗位筛选</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>2027届岗位筛选</h1>
+          <p id="sourceLabel">company_details_all_20260708_202426.json</p>
+        </div>
+        <div class="summary-strip">
+          <div>
+            <span id="totalCount">0</span>
+            <small>全部</small>
+          </div>
+          <div>
+            <span id="filteredCount">0</span>
+            <small>当前</small>
+          </div>
+        </div>
+      </header>
+
+      <section class="controls" aria-label="筛选条件">
+        <label class="field search-field">
+          <span>关键词</span>
+          <input id="keywordInput" type="search" placeholder="公司、岗位、城市、行业" autocomplete="off" />
+        </label>
+        <label class="field">
+          <span>行业</span>
+          <select id="industrySelect">
+            <option value="">全部行业</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>性质</span>
+          <select id="typeSelect">
+            <option value="">全部性质</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>地点</span>
+          <input id="locationInput" type="text" placeholder="北京,上海,-全国" autocomplete="off" />
+        </label>
+        <label class="field">
+          <span>招聘类型</span>
+          <select id="recruitmentSelect">
+            <option value="">全部类型</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>目标届别</span>
+          <select id="targetSelect">
+            <option value="">全部届别</option>
+          </select>
+        </label>
+        <div class="actions">
+          <button id="resetButton" type="button" title="清空筛选">
+            <span aria-hidden="true">↺</span>
+            重置
+          </button>
+        </div>
+      </section>
+
+      <section class="content-grid">
+        <aside class="list-panel">
+          <div class="list-head">
+            <strong>岗位列表</strong>
+            <select id="sortSelect" title="排序">
+              <option value="update_desc">更新时间新到旧</option>
+              <option value="update_asc">更新时间旧到新</option>
+              <option value="name_asc">公司名称 A-Z</option>
+              <option value="deadline_asc">截止时间近到远</option>
+            </select>
+          </div>
+          <div id="resultList" class="result-list" aria-live="polite"></div>
+        </aside>
+
+        <article id="detailPanel" class="detail-panel">
+          <div class="empty-state">选择左侧岗位查看详情</div>
+        </article>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
