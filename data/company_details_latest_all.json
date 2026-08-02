@@ -1,5 +1,55 @@
 [
   {
+    "id": 22088,
+    "name": "中国电科43所",
+    "type": "事业单位",
+    "locations": [
+      "合肥"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "人工智能类电源设计类电路设计类微波与射频技术类微系统设计类电子封装与工艺类结构与仿真设计类可靠性与测试类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 17:20:48",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/vMt3Uja_q_Ygwq9nPtxXSg"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/vMt3Uja_q_Ygwq9nPtxXSg",
+    "notes": "硕士及以上",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "电子/半导体",
+    "company_size": null
+  },
+  {
+    "id": 22087,
+    "name": "东风奕派汽车科技公司",
+    "type": "央国企",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "研发领域制造领域营销-管培生计划职能领域"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 17:20:47",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/dfmc/182169?locale=zh-CN#/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/WVSVW8g5Wh0yHfJ4lrQkrg?scene=1&amp;click_id=817763699",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "车企/汽车零部件",
+    "company_size": "员工数量5000～20000"
+  },
+  {
     "id": 22086,
     "name": "浪潮集团",
     "type": "民企",
