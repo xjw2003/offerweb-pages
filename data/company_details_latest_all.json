@@ -1,5 +1,207 @@
 [
   {
+    "id": 22086,
+    "name": "浪潮集团",
+    "type": "民企",
+    "locations": [
+      "济南北京天津青岛成都 重庆苏州"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "核心研发类产品研发类技术支持类市场类职能管理类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:48",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://inspur.hcmcloud.cn/recruit#/portal_job_list?job_class=_HB5_Y2FtcHVz&amp",
+      "http://filter_dict=_HB5_eyJf!m9iX2NsYXNzIjoiY2FtcHVzIiwic2VsZWN0X2RlcGFydCI6bnVsbH0%253D"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/-BSsdPVR7ZEKz0MJzxyxoQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量 5000～20000"
+  },
+  {
+    "id": 22085,
+    "name": "光迅科技",
+    "type": "央国企",
+    "locations": [
+      "武汉"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "光迅科技2026署期开放日"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:46",
+    "deadline": "2026-08-05",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/pLPbGIED5DT-mN6zi7wEtQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/pLPbGIED5DT-mN6zi7wEtQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量 1000～5000"
+  },
+  {
+    "id": 22084,
+    "name": "岚图汽车",
+    "type": "央国企",
+    "locations": [
+      "武汉北京上海宁波乌鲁木齐深圳石家庄厦门济南广州郑州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "产品领域研发领域营销领域智能制造服务支持"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:44",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/voyah/146293#/jobs?project=100128215"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/5x6laCPG-kZgeFLc0v031w",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "车企/汽车零部件",
+    "company_size": "员工数量 5000～20000"
+  },
+  {
+    "id": 22083,
+    "name": "聚芯微电子",
+    "type": "民企",
+    "locations": [
+      "武汉北京深圳上海西安苏州荷兰"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "微电子/集成电路类电子信息类计算机/软件类自动化/控制类物理/数学类交叉学科类等专业"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:43",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/jxw/166492?locale=zh-CN#/jobs?page=1&amp",
+      "http://anchorName=jobsList"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/2vZdkWnXB3BQiVZAaKsDhw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22082,
+    "name": "兆芯",
+    "type": "央国企",
+    "locations": [
+      "上海北京西安"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "架构工程师 架构工程师编译器方向SIC设计工程师ASIC验证工程师 物理设计工程师 可测性设计工程师 可测性设计工程师实验室方向系统建模与性能分析工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:41",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus.51job.com/zhaoxin2027/job.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/EkwAsRwPxn0WqFYikySNjQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22081,
+    "name": "双曲线教育",
+    "type": "民企",
+    "locations": [
+      "南昌赣州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "数学老师 物理老师 化学老师 竞赛教练"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:37",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/brccz6US1i11KeX3wWI6Ww"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/brccz6US1i11KeX3wWI6Ww",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "教育培训/在线教育",
+    "company_size": "员工数量 300 以内"
+  },
+  {
+    "id": 22080,
+    "name": "安克创新-MIKT设计专场",
+    "type": "民企",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "27届造浪计划一一MKT设计专场"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:35",
+    "deadline": "2026-08-09",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/-SxT7mk31Wh4HRt6mKDq_A"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/-SxT7mk31Wh4HRt6mKDq_A",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "电子/半导体",
+    "company_size": "员工数量5000～20000"
+  },
+  {
+    "id": 22079,
+    "name": "引力波智谱",
+    "type": "民企",
+    "locations": [
+      "合肥"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "研发产品运营市场设计"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-02 01:00:31",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://gamstek.com/campus-recruitment/jobs/"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/wShDj1JRbewUWau-BDxtdw?scene=1&amp;click_id=838735726",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "机械装备/电气系统",
+    "company_size": "员工数量 300 以内"
+  },
+  {
     "id": 22078,
     "name": "晋华集成电路",
     "type": "央国企",
