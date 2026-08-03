@@ -1,5 +1,781 @@
 [
   {
+    "id": 22136,
+    "name": "MPS芯源系统",
+    "type": "外企",
+    "locations": [
+      "成都杭州香港上海深圳南京杭州北京合肥广州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "研发类岗位市场类岗位"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:47",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://xz.51job.com/mps/list4.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/_Jo92Vkrvg3p2DQI2JAciA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "电子/半导体",
+    "company_size": null
+  },
+  {
+    "id": 22135,
+    "name": "帆软",
+    "type": "民企",
+    "locations": [
+      "南京无锡成都杭州全国其他"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "研发类产品类设计类市场类销售类客户交付与运营类 职能类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:46",
+    "deadline": "2026-08-31",
+    "related_links": [
+      "https://join.fanruan.com/campus"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/I9RXYAw417RIL1BgSV4wCQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "互联网/人工智能",
+    "company_size": null
+  },
+  {
+    "id": 22134,
+    "name": "德勤",
+    "type": "外企",
+    "locations": [
+      "北京广州上海南昌青岛重庆澳门大连杭州深圳香港苏州济南大连成都武汉西安宁波"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "审计税务咨询类岗位"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:45",
+    "deadline": "2026-10-31",
+    "related_links": [
+      "https://wecruit.hotjob.cn/SU648133e50dcad45af15e3cb1/mc/position/campus?projectCode=106501&amp",
+      "http://showProjectBanner=true"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/0JxoQMGkIQfG1WXlENp82g",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "商务服务/咨询",
+    "company_size": null
+  },
+  {
+    "id": 22133,
+    "name": "元气森林",
+    "type": "民企",
+    "locations": [
+      "北京上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "饮料产品经理品牌经理数字营销设计类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:43",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://k11pnjpvz1.jobs.feishu.cn/352020/?sessionid="
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/tpcmkw53mFzE4GiIwCogTw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "快消零售/食品",
+    "company_size": null
+  },
+  {
+    "id": 22132,
+    "name": "新东方西安学校",
+    "type": "民企",
+    "locations": [
+      "西安咸阳"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "素质教师岗位素养教师岗位智慧学习机教师岗位 高中教师岗位高中班组课教师岗位"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:42",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/FAyegpbI1S2780Dg2q9pOw"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/FAyegpbI1S2780Dg2q9pOw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "教育培训/在线教育",
+    "company_size": null
+  },
+  {
+    "id": 22131,
+    "name": "源件星球",
+    "type": "民企",
+    "locations": [
+      "北京洛阳海外"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "管理培训生岗位"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:40",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/udIHz45EdWXSJsQ2GC7Kbw"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/udIHz45EdWXSJsQ2GC7Kbw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "车企/汽车零部件",
+    "company_size": null
+  },
+  {
+    "id": 22130,
+    "name": "传音控股-TAIG-AI顶尖人才招聘计划",
+    "type": "民企",
+    "locations": [
+      "深圳上海重庆"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "AI算法类AI产品类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:44:39",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://transsion.zhiye.com/4/jobs?memory=%7B%7D&amp",
+      "http://silence=1&amp",
+      "http://sessionid="
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/ygTz0O8Jg067o2Z_8wXJpg",
+    "notes": "硕士及以上",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "电子/半导体",
+    "company_size": null
+  },
+  {
+    "id": 22129,
+    "name": "中际旭创",
+    "type": "民企",
+    "locations": [
+      "苏州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "校招岗位8月下旬正式启动，具体岗位待发布"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:35:32",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/008PjkYoilTZw-Yxt2EEoA"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/008PjkYoilTZw-Yxt2EEoA",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "机械/电子",
+    "company_size": null
+  },
+  {
+    "id": 22128,
+    "name": "腾讯CSIG",
+    "type": "民企",
+    "locations": [
+      "深圳",
+      "北京",
+      "上海",
+      "成都",
+      "杭州",
+      "合肥",
+      "中国香港等"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "智能体强化学习、大语言模型NLP、多模态、视觉、语音、推荐、搜索模型应用、AI基础设施系统与安全"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:35:31",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixinbridge.com/mp/wapredirect?url=httpsjoin.qq.compost.htmlkeywordinfraqueryp_14p_20b_29294&action=appmsg_redirect&uin=MTQyNzcwMzg2Mg&biz=MzIwMTUxMjk3Ng==&mid=2647640126&idx=1&type=2&scene=0"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/i3KKNk6cUtM2dVVyQ6sxqw",
+    "notes": "硕士起",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "互联网",
+    "company_size": null
+  },
+  {
+    "id": 22127,
+    "name": "海信集团",
+    "type": "央国企",
+    "locations": [
+      "青岛",
+      "深圳",
+      "武汉",
+      "上海",
+      "杭州",
+      "西安",
+      "贵阳",
+      "江门",
+      "扬州",
+      "成都",
+      "湖州",
+      "顺德",
+      "黄岛",
+      "平度"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "信动力M计划-电商运营（渠道运营方向）、信动力M计划-营销渠道管理、信动力M计划-产品策略、信动力M计划-品牌营销（媒介管理方向）、信动力T计划-制冷系统设计工程师、信动力T计划-食品保鲜研发工程师、信动力T计划-仿真设计工程师（固体力学方向）、信动力T计划-软件开发工程师（电机驱动方向）、信动力T计划-制冷系统设计工程师（佛山）、信动力T计划-制冷系统设计工程师（黄岛）、信动力M计划-海外品牌营销、信动力M计划-海外产品经理、信动力M计划-海外销售经理、信动力M计划-海外电商运营、信动力M计划-海外产品策划推广、信动力T计划-制冷系统设计工程师（崂山）、信动力M计划-营销管理类、信动力M计划-电商运营类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:35:29",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jobs.hisense.com/7/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/OP4JwYsQwnDUKNG6AzKIiw",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "家电",
+    "company_size": null
+  },
+  {
+    "id": 22125,
+    "name": "神农集团",
+    "type": "民企",
+    "locations": [
+      "昆明"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "校企育才兴农计划学员"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:35:26",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://wecruit.hotjob.cn/SU66cdaa3d1c240e39b5dccc8e/mc/notFound?prompt=500"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/X9GML4zGjQTV83RDI05G7g",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "畜牧业",
+    "company_size": null
+  },
+  {
+    "id": 22124,
+    "name": "迈瑞医疗",
+    "type": "民企",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "校园星探"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:35:25",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://career.mindray.com/9/detail?jobAdId=e3e61533-47c9-449f-8ff8-d27baa9b94bc"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/a9ciLH0lWWFNJm4hsNNB7Q",
+    "notes": "硕士起",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "生物/医药",
+    "company_size": null
+  },
+  {
+    "id": 22123,
+    "name": "佳驰科技",
+    "type": "民企",
+    "locations": [
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "电磁研发工程师、材料研发工程师、结构研发工程师、飞控系统工程师、软件开发工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:35:23",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/SYi2RAI_0Gv1Q5Rt16nR5w"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/SYi2RAI_0Gv1Q5Rt16nR5w",
+    "notes": "硕士起",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "软件技术",
+    "company_size": null
+  },
+  {
+    "id": 22114,
+    "name": "FunPlus-校园大使",
+    "type": "民企",
+    "locations": [
+      "远程",
+      "线上"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "校园大使"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:27:59",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/funplus01/147931#/job/08ce07cc-71fd-4e68-a131-144eee8107f3?from=qrcode"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/xWzMxBmQdy-l8-BWXO8yKw",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "软件技术",
+    "company_size": null
+  },
+  {
+    "id": 22112,
+    "name": "国投证券",
+    "type": "央国企",
+    "locations": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "武汉",
+      "成都",
+      "杭州",
+      "南京",
+      "合肥",
+      "西安"
+    ],
+    "recruitment_type": "实习",
+    "target_candidates": "2027届",
+    "positions": [
+      "扬帆实习生（投资银行、研究所、资产管理、财富管理、信息技术、风险管理、运营管理、人力资源等方向）"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:27:56",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://essence.hotjob.cn"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/AOx-Te5pDVQoNUArzXg3lg",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "金融",
+    "company_size": null
+  },
+  {
+    "id": 22103,
+    "name": "安恒信息",
+    "type": "民企",
+    "locations": [
+      "杭州",
+      "成都"
+    ],
+    "recruitment_type": "实习",
+    "target_candidates": "2027届",
+    "positions": [
+      "高级Python开发工程师、态势感知售前解决方案专家、网络安全研究与开发实习生、AI安全博士实习生、算法实习生、安全专家团队负责人（蓝队方向）"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:27:45",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/gfmKojzHG1YZqdbgIqqMZQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/gfmKojzHG1YZqdbgIqqMZQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "软件技术",
+    "company_size": null
+  },
+  {
+    "id": 22099,
+    "name": "京东集团",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "杭州",
+      "武汉",
+      "广州",
+      "深圳",
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "采销方向物流方向技术方向产品方向运营方向设计方向健康方向工程方向职能方向保险与金融方向市场与商务方向"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:14:34",
+    "deadline": "2026-11-30",
+    "related_links": [
+      "https://campus.jd.com/#/jobs?selProjects=56&channelId=2536"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/9pDefciILqTEbxHxCYy9vw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "互联网",
+    "company_size": null
+  },
+  {
+    "id": 22098,
+    "name": "索尼",
+    "type": "外企",
+    "locations": [
+      "北京",
+      "上海",
+      "成都",
+      "香港"
+    ],
+    "recruitment_type": "实习",
+    "target_candidates": "2028届,2027届",
+    "positions": [
+      "Edge-Cloud Al Intern",
+      "Human-Computer Interaction (HCI) Intern",
+      "Interactive Content Developer Intern"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:12:41",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://sony.tupu360.com/position/list?enter=menu&type=INTERNSHIPRECRUITMENT&lang=zh_CN"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/B4DPnA8Txv8mR1tpRPZoNg",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "外企,科技",
+    "company_size": null
+  },
+  {
+    "id": 22096,
+    "name": "野村集团",
+    "type": "外企",
+    "locations": [
+      "香港"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "市场风险管理",
+      "Market Risk Management；",
+      "信用风险管理",
+      "Credit Risk Management；",
+      "操作风险管理",
+      "Operational Risk Management；不限专业"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:10:59",
+    "deadline": "2026-09-30",
+    "related_links": [
+      "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-ad10962623d1/candidate/so/pm/1/pl/1/opp/1483-2027-Risk-Management-Graduate-Program-Hong-Kong/en-GB?sessionid="
+    ],
+    "recruitment_notice": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-ad10962623d1/candidate/so/pm/1/pl/1/opp/1483-2027-Risk-Management-Graduate-Program-Hong-Kong/en-GB?sessionid=",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "外企,银行/金融",
+    "company_size": null
+  },
+  {
+    "id": 22095,
+    "name": "中科芯",
+    "type": "央国企",
+    "locations": [
+      "南京",
+      "无锡",
+      "武汉",
+      "成都",
+      "西安"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "GPU SDK软件开发工程师",
+      "AI算法工程师",
+      "AI编译器工程师",
+      "传统编译器工程师(CPU/DSP/GPU方向)",
+      "数字IC设计工程师",
+      "模拟IC设计工程师",
+      "IC验证工程师",
+      "数字后端工程师",
+      "版图设计工程师",
+      "单项工艺工程师（光刻、刻蚀、扩散(注入)、薄膜、湿法研磨方向）",
+      "单项设备工程师（光刻、刻蚀、扩散(注入)、薄膜、湿法研磨方向）",
+      "工艺集成工程师",
+      "器件产品工程师",
+      "工艺模型设计工程师",
+      "PDK设计工程师",
+      "封装工艺工程师（晶圆级TCB/FC/底填工艺、CoWoS方向）",
+      "封装设计工程师",
+      "测试开发工程师",
+      "嵌入式软件工程师",
+      "嵌入式硬件工程师",
+      "FPGA工程师",
+      "IC测试应用工程师",
+      "FAE工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:36:38",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://cksic.zhiye.com/campus/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/b-i67TQAecXV6Rd-ntKrSg",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": null,
+    "industry": "国企,科技",
+    "company_size": null
+  },
+  {
+    "id": 22094,
+    "name": "OC&C欧晰析咨询",
+    "type": "外企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "助理咨询顾问"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:07:08",
+    "deadline": "2026-08-21",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/do73dLpC8Ao8UfYC4Lp7HQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/do73dLpC8Ao8UfYC4Lp7HQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "外企,专业服务",
+    "company_size": null
+  },
+  {
+    "id": 22093,
+    "name": "奥纬咨询上海办公室",
+    "type": "外企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "Entry-level Consultant、专业不限"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:05:42",
+    "deadline": "2026-09-29",
+    "related_links": [
+      "https://mmc.wd1.myworkdayjobs.com/zh-CN/MMC/job/Shanghai---Changle/Oliver-Wyman---Entry-level-Consultant--2027----Shanghai_R_359609"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/Q3uFuOK2vWNygYsjnrYATA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "专业服务",
+    "company_size": null
+  },
+  {
+    "id": 22092,
+    "name": "中国人民保险集团",
+    "type": "央国企",
+    "locations": [
+      "全国"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "科技类 综合类（特殊截止：简历通道整体关闭时间:2027年4月25日；集团本级:2026年10月中旬截止；各单位总部和部分省级机构本级:2026年11月中下旬截止）"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:04:40",
+    "deadline": "2027-04-25",
+    "related_links": [
+      "https://picc.zhiye.com/custom/campus?c1=6&hideAll=true"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/OB6m8tg0TVJupWMdU16r5A",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "银行/金融",
+    "company_size": null
+  },
+  {
+    "id": 22091,
+    "name": "创维集团",
+    "type": "民企",
+    "locations": [
+      "鞍山",
+      "苏州",
+      "杭州",
+      "宁波",
+      "温州",
+      "嘉兴",
+      "湖州",
+      "绍兴",
+      "金华",
+      "衢州",
+      "舟山",
+      "台州",
+      "丽水",
+      "合肥",
+      "芜湖",
+      "蚌埠",
+      "淮南",
+      "马鞍山",
+      "淮北",
+      "铜陵",
+      "安庆",
+      "黄山",
+      "滁州",
+      "阜阳",
+      "宿州",
+      "六安",
+      "亳州",
+      "池州",
+      "宣城",
+      "深圳",
+      "佛山",
+      "惠州",
+      "北海",
+      "海口",
+      "海外"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "质量工程师，质量工程师（汽车电子）",
+      "设备工程师，SMT 工程师，仓库管理工程师，PE 工程师，NPI 工程师，生产运营工程师，国内营销管培生，逆变器测试工程师（光伏方向）",
+      "设备工程师（光伏方向）",
+      "质量工程师（光伏方向）",
+      "生产工程师（光伏方向）",
+      "ARM 软件工程师（光伏方向）",
+      "DSP 软件工程师（光伏方向）",
+      "硬件工程师（光伏方向）",
+      "采购工程师，计划工程师，销售管培生，工业设计师（技术研发）",
+      "材料设计师（技术研发）",
+      "硬件设计师（技术研发）",
+      "光电设计师（技术研发）",
+      "认证测试工程师（技术研发）",
+      "软件设计师（技术研发）",
+      "结构设计师（技术研发）",
+      "质量工程师（智能制造）",
+      "电子工程师（智能制造）",
+      "结构工程师（智能制造）",
+      "计划工程师（智能制造）",
+      "研发工程师（智能制造）",
+      "机械工程师（智能制造）",
+      "计划工程师（光伏方向）",
+      "采购工程师（光伏方向）",
+      "机电工程师（光伏方向）",
+      "金融管培生（光伏方向）",
+      "国内财务管培生（光伏方向）",
+      "电气工程师（光伏方向）",
+      "大项目管培生（光伏方向）",
+      "仓库账务员（光伏方向）",
+      "PMC 工程师（光伏方向）",
+      "钙钛矿研发工程师（光伏方向）",
+      "销售经理（光伏方向）",
+      "渠道运营管培生，组件研发工程师（光伏方向）",
+      "工艺工程师（光伏方向）",
+      "海外财务管培生（光伏方向）",
+      "海外市场管培生（光伏方向）",
+      "海外销售管培生（光伏方向）",
+      "海外项目管培生（光伏方向）",
+      "海外供应链管培生（光伏方向）",
+      "服务管理管培生（综合管理方向）",
+      "用户服务管培生（客服经理方向）",
+      "技术培训工程师，项目运营管培生（项目经理方向）",
+      "海外技术管培生（光伏方向）",
+      "招投标商务专员（光伏方向）",
+      "电力交易员（光伏方向）",
+      "虚拟电厂运营（光伏方向）",
+      "市场专员（光伏方向）",
+      "算法工程师（光伏方向）",
+      "Java 工程师（光伏方向）",
+      "Web 工程师（光伏方向）",
+      "测试工程师（光伏方向）",
+      "产品经理（光伏方向）",
+      "大客户项目经理（光伏方向）",
+      "电费运营专员（光伏方向）",
+      "费用管理专员（光伏方向）",
+      "数据运营专员（光伏方向）",
+      "运维管培生（光伏方向）",
+      "电气技术工程师（光伏方向）",
+      "电站检测工程师（光伏方向）",
+      "新媒体运营（光伏方向）",
+      "市场推广（光伏方向）",
+      "工程管理管培生（光伏方向）",
+      "工商业项目专员（光伏方向）",
+      "商务审核专员（光伏方向）",
+      "技术审核专员（光伏方向）",
+      "项目管理经理 (光伏方向）",
+      "海外营销管培生，国际管培（非洲籍）",
+      "海外运营管培生，海外供应链管培生，海外产品管培生，海外电商管培生，业务储干，品质储干，研发储干，财务管培生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-03 12:03:54",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://skyworth.hotjob.cn/wt/Skyworth/web/index/campus"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/ukLwsnKN5RktPvZmAcgeyw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "其他",
+    "company_size": null
+  },
+  {
     "id": 22088,
     "name": "中国电科43所",
     "type": "事业单位",
