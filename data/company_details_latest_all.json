@@ -1,5 +1,181 @@
 [
   {
+    "id": 22175,
+    "name": "施耐德电气",
+    "type": "外企/合资",
+    "locations": [
+      "全国"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "星熠培训生、商业新星、研发新星、供应链新星"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:19",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/m8ZwZqaOYHWULAlLXyPLGw?scene=1&click_id=1033142437"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/m8ZwZqaOYHWULAlLXyPLGw?scene=1&click_id=1033142437",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "施耐德电气2026校招部分岗位有笔试部分没有",
+    "industry": "机械/电子",
+    "company_size": "员工数量10万以上"
+  },
+  {
+    "id": 22174,
+    "name": "燕东微",
+    "type": "央国企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "技术研发类、生产技术类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:17",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/HNcO6Jh1xIQEKX3G482wuw"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/HNcO6Jh1xIQEKX3G482wuw",
+    "notes": "博士起",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "芯片",
+    "company_size": "员工数量 1000～5000"
+  },
+  {
+    "id": 22173,
+    "name": "凯读投资",
+    "type": "民企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "管培生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:16",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/K-vfKjF2l1wUcoMXcXmPnQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/K-vfKjF2l1wUcoMXcXmPnQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "金融",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22171,
+    "name": "HRnetGroup",
+    "type": "外企/合资",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2025,2026,2027届",
+    "positions": [
+      "HR管培生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:13",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://hrnetgroup.mikecrm.com/PFCvAdq"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/ArcZXhcbHhiqPCq_HDyuEw",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "财税/审计",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22170,
+    "name": "作业帮",
+    "type": "民企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "岗位待正式开启（训练营回顾，秋招即将启动）"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:12",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/KatIiqDKmZoll61PZjB4oA?scene=1&click_id=963099528",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "部分岗位无笔试，其他未明确",
+    "industry": "教育/培训",
+    "company_size": "员工数量20000～100000"
+  },
+  {
+    "id": 22167,
+    "name": "华为ICT销售",
+    "type": "民企",
+    "locations": [
+      "多地"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "客户经理、合同商务经理、产品行销经理"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:07",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/hOfmHV5w4hT3LLX7SIKLOg?scene=1&click_id=73941632"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/hOfmHV5w4hT3LLX7SIKLOg?scene=1&click_id=73941632",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "没有笔试",
+    "industry": "互联网",
+    "company_size": "华为ICT销售与服务员工数量20万以上"
+  },
+  {
+    "id": 22166,
+    "name": "凯读投资-校园大使",
+    "type": "民企",
+    "locations": [
+      "远程",
+      "线上"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "校园大使"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 13:17:06",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/m/social-recruitment/kendallsquarecap/144869#/job/635f1069-f3af-479c-aeb7-60410c667882?from=qrcode"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/qB1mZh32oQZr-kn_vVRqGQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "金融",
+    "company_size": "员工数量300以内"
+  },
+  {
     "id": 22159,
     "name": "芯耀辉科技",
     "type": "民企",
