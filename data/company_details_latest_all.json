@@ -1,5 +1,552 @@
 [
   {
+    "id": 22159,
+    "name": "芯耀辉科技",
+    "type": "民企",
+    "locations": [
+      "上海",
+      "南京",
+      "苏州",
+      "合肥",
+      "武汉",
+      "深圳",
+      "珠海",
+      "成都",
+      "西安",
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届,2028届",
+    "positions": [
+      "SERDES 系统算法工程师模拟设计工程师数字设计 / 验证工程师数模混合验证工程师SIPI 工程SRAM 设计工程师数字后端工程师版图设计工程师SRAM 版图设计工程师系统测试工程师固件设计工程师DA 工程师（AI 方向）封装设计工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:19:02",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://geg7eg8cyc.jobs.feishu.cn/615803/position/list?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&storefront_id_list="
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/OdA2NV7y8juKvQXoZFgT2Q",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "科技",
+    "company_size": null
+  },
+  {
+    "id": 22153,
+    "name": "沛睿微电子",
+    "type": "民企",
+    "locations": [
+      "苏州",
+      "合肥"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "IC验证工程师",
+      "算法/架构工程师",
+      "数字IC设计工程师",
+      "模拟IC设计工程师",
+      "固件/软件开发工程师",
+      "布局布线/SoC后端工程师、电子通讯、计算机、微电子"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:14:35",
+    "deadline": "2026-09-30",
+    "related_links": [
+      "https://www.raymx-micro.com/Home/Position"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/CDisQ9O-2O5-tfKCwegqTw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "科技",
+    "company_size": null
+  },
+  {
+    "id": 22152,
+    "name": "麦捷科技",
+    "type": "民企",
+    "locations": [
+      "深圳",
+      "惠州",
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "研发工程师 (电气工程方向)",
+      "研发工程师 (磁性材料方向)",
+      "工艺工程师",
+      "助理工程师",
+      "海外技术支持工程师",
+      "东南亚运营支持专员",
+      "市场专员",
+      "财务专员、电力电子与电力传动、电机与电器、高电压与绝缘技术、电气工程及其自动化、材料科学与工程、材料加工工程、磁性材料、金属材料、无机非金属材料、复合材料、粉末冶金、控制科学与工程、人工智能、机械电子工程、自动化、机械设计制造及其自动化、材料成型及控制工程、电子信息工程、电磁场与无线技术、工业工程、国际经济与贸易、电子商务、国际商务、跨境电子商务、会计学、财务管理"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:13:45",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/sELt3eLbPaIuNbZIuq3urA"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/sELt3eLbPaIuNbZIuq3urA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "科技",
+    "company_size": null
+  },
+  {
+    "id": 22151,
+    "name": "加多宝集团",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "石家庄",
+      "杭州",
+      "温州",
+      "合肥",
+      "石狮",
+      "南昌",
+      "赣州",
+      "郑州",
+      "漯河",
+      "武汉",
+      "广州",
+      "深圳",
+      "清远",
+      "东莞",
+      "成都",
+      "绵阳",
+      "资阳",
+      "毕节",
+      "昆明",
+      "玉溪",
+      "西安",
+      "兰州",
+      "格尔木"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "销售管培生",
+      "推广管培生",
+      "机电管培生",
+      "质量管培生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:12:59",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jdbchina.zhiye.com/"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/iVg7rGYfBreVZOitM6r42Q",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "消费",
+    "company_size": null
+  },
+  {
+    "id": 22150,
+    "name": "天翼云",
+    "type": "央国企",
+    "locations": [
+      "北京",
+      "上海",
+      "厦门",
+      "广州",
+      "深圳",
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "后端开发工程师（AI方向为主）",
+      "算法工程师",
+      "产品经理",
+      "云计算研究员",
+      "大数据开发工程师",
+      "测试开发工程师",
+      "信息安全工程师",
+      "项目管理岗",
+      "客户端开发工程师（C++/java）",
+      "前端开发工程师",
+      "采购经理",
+      "建设规划经理",
+      "云鹰管培生（市场方向）",
+      "云鹰管培生（其他方向）"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:12:10",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/xP3hIhkw49dNdDarMqgTCA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "国企",
+    "company_size": null
+  },
+  {
+    "id": 22149,
+    "name": "科尔尼",
+    "type": "外企",
+    "locations": [
+      "北京",
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "商业分析师、专业不限"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:11:33",
+    "deadline": "2026-08-24",
+    "related_links": [
+      "https://kearney.taleo.net/careersection/01c/jobdetail.ftl?job=006JY"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/9nzVDAMmFhGc0vMVJwrzbw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "外企,专业服务",
+    "company_size": null
+  },
+  {
+    "id": 22148,
+    "name": "哔哩哔哩",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "深圳",
+      "海外"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "算法",
+      "开发",
+      "安全",
+      "运维",
+      "产品",
+      "产品运营",
+      "内容运营",
+      "品牌市场",
+      "商务BD",
+      "项目管理（技术线）",
+      "财务",
+      "投资",
+      "游戏开发",
+      "游戏策划",
+      "游戏美术",
+      "游戏运营",
+      "游戏市场"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:09:24",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jobs.bilibili.com/campus/positions?type=3"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/L8XPLx10ozpCu_AUVx-RnQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "互联网",
+    "company_size": null
+  },
+  {
+    "id": 22147,
+    "name": "字节跳动",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "杭州",
+      "广州",
+      "深圳",
+      "成都",
+      "全国"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "研发、产品、销售、运营、市场、设计、游戏策划、职能/支持"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:08:03",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jobs.bytedance.com/campus"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/hBXu8m3U5RbGyIR-xPkEtg",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "互联网",
+    "company_size": null
+  },
+  {
+    "id": 22146,
+    "name": "珀莱雅",
+    "type": "民企",
+    "locations": [
+      "湖州",
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届,2028届",
+    "positions": [
+      "AI项目专员(美妆全域AI赋能)、AI项目专员(智能制造落地)、计算机、自动化、大数据、专业不限"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 12:03:17",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jobs.proya.com/jobs/position/list"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/_hqj1pttvG-E7DEUZ32T8Q",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "消费",
+    "company_size": null
+  },
+  {
+    "id": 22145,
+    "name": "超参数科技",
+    "type": "民企",
+    "locations": [
+      "深圳"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "强化学习研究员机器学习研究员算法工程师后台开发工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:39",
+    "deadline": "2026-09-30",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/chaocanshu/45562?sessionid=#/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/tujtUsCGqOJdLZjsSzG1oA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22144,
+    "name": "星宸科技",
+    "type": "民企",
+    "locations": [
+      "上海厦门深圳杭州成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "芯片类算法类软件类供应链类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:37",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://sigmastar.zhiye.com/campus/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/HicVehdcqSIo1jXm8frvyA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22143,
+    "name": "瑞银-中国内地校招",
+    "type": "外企",
+    "locations": [
+      "北京上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "管理培训生项目"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:36",
+    "deadline": "2026-10-31",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/a6I96PXXwet4db8JswOznA"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/a6I96PXXwet4db8JswOznA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "金融/证券",
+    "company_size": "员工数量 1000 以内"
+  },
+  {
+    "id": 22142,
+    "name": "米哈游",
+    "type": "民企",
+    "locations": [
+      "上海北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "程序&技术类产品策划类美术&表现类综合类商场&商务类运营类国际化类质量管理类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:34",
+    "deadline": "2026-10-31",
+    "related_links": [
+      "https://jobs.mihoyo.com/?channelToken=xz2d8213af-ba9c40f6b805-afb0a569d168&amp",
+      "http://sessionid=#/campus/position?projectIds%5B0%5D=13"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/0VUBcx8tsziBIJr83_13Hg",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量 5000～20000"
+  },
+  {
+    "id": 22141,
+    "name": "散爆网络",
+    "type": "民企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "实习",
+    "target_candidates": "2027届",
+    "positions": [
+      "3D角色训练营-锋芒训练营专项:美术、设计相关专业"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:33",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jobs.sunborngame.com/campus-recruitment/micateam/146166#/job/2420226c-d0b0-4a55-87f9-3419be66beb7"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/uC9aFSU22j6NNYHKEhWySA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22140,
+    "name": "万家基金",
+    "type": "央国企",
+    "locations": [
+      "上海北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "投资研究类市场营销类运营支持类金融科技类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:31",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://wjasset.zhiye.com/campus/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/AjgNszgWGlSCWWOIF2Mlmg",
+    "notes": "硕士及以上",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "金融/证券",
+    "company_size": "员工数量 1000 以内"
+  },
+  {
+    "id": 22139,
+    "name": "盛趣游戏",
+    "type": "民企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "研发策划类程序开发类技术支持类综合管理类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:30",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/shengqu/96336#/jobs?page=1&amp",
+      "http://anchorName=jobsList"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/qSTntBMi-dp5esezwq-i-Q",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22138,
+    "name": "普华永道",
+    "type": "外企",
+    "locations": [
+      "香港上海北京深圳广州 成都 澳门武汉杭州天津大连苏州青岛南京其他"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "审计及鉴证服务税务服务咨询服务交易服务"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:29",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://www.pwccn.com/en/careers/students.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/ez0-sgWQNpHmiM6Wxs_tLw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "商务服务/咨询",
+    "company_size": "员工数量10万以上"
+  },
+  {
+    "id": 22137,
+    "name": "寅成智能",
+    "type": "民企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "AI算法工程师 软件开发工程师 机械/电气工程师 方案与售前工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-04 00:05:27",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/chaocanshu/45562?sessionid=#/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/vHV7qYid8oYkDAQ8taxDGQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "智能硬件/机器人",
+    "company_size": "员工数量300以内"
+  },
+  {
     "id": 22136,
     "name": "MPS芯源系统",
     "type": "外企",
