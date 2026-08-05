@@ -1,5 +1,554 @@
 [
   {
+    "id": 22201,
+    "name": "卓驭2027届秋季校园招聘启动",
+    "type": "民企",
+    "locations": [
+      "全国，具体地址看投递链接"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "具体岗位见投递链接"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 12:28:43",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://we.zyt.com/campus/iobs"
+    ],
+    "recruitment_notice": "https://we.zyt.com/campus/iobs",
+    "notes": "",
+    "referral_code": "EZB8A2",
+    "exam_info": null,
+    "industry": "科技",
+    "company_size": null
+  },
+  {
+    "id": 22200,
+    "name": "北京新东方",
+    "type": "民企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2024,2025,2026,2027届",
+    "positions": [
+      "课程顾问、学习顾问"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 12:07:24",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/oBJmoEj8x8AQsL3pt4sVzw"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/oBJmoEj8x8AQsL3pt4sVzw",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "教育/培训",
+    "company_size": null
+  },
+  {
+    "id": 22198,
+    "name": "广电运通集团",
+    "type": "央国企",
+    "locations": [
+      "广州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "岗位待8月中旬开启"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 12:07:21",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/_tzCvadnTiUhEe1QJeh6HQ?scene=1&click_id=1058822071"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/_tzCvadnTiUhEe1QJeh6HQ?scene=1&click_id=1058822071",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "仓储物流",
+    "company_size": null
+  },
+  {
+    "id": 22197,
+    "name": "中国国际投资促进会",
+    "type": "央国企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "实习",
+    "target_candidates": "2026,2027届",
+    "positions": [
+      "对外联络部实习生、信息调研部实习生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:57:16",
+    "deadline": "2026-08-14",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/CbfWRXWpeeZZot7C1LdUeQ?scene=1"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/CbfWRXWpeeZZot7C1LdUeQ?scene=1",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "公共服务",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22194,
+    "name": "TAG-HUB",
+    "type": "民企",
+    "locations": [
+      "南京"
+    ],
+    "recruitment_type": "实习",
+    "target_candidates": "2027届",
+    "positions": [
+      "销售、运营实习生、综合办公室文员、数字化流程运营实习生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:57:12",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://sc8zunwqqq.jiandaoyun.com/f/69d3c27e48ba36b284235943"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/EJd7JpNKzrT5pXS1J1uH3Q?scene=1",
+    "notes": "专科起",
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "信息数据",
+    "company_size": null
+  },
+  {
+    "id": 22192,
+    "name": "浩鲸科技-校园大使",
+    "type": "民企",
+    "locations": [
+      "南京",
+      "海外"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "校园大使"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:57:10",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/XdElEm-12HZN1q5EkBlQCw?scene=1&click_id=1525033375"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/XdElEm-12HZN1q5EkBlQCw?scene=1&click_id=1525033375",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "互联网",
+    "company_size": "员工数量10000～50000"
+  },
+  {
+    "id": 22190,
+    "name": "博通集成电路（上海）股份有限公司",
+    "type": "中外合资",
+    "locations": [
+      "上海",
+      "深圳"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "视频SoC系统设计工程师",
+      "无线通信系统设计工程师",
+      "模拟集成电路设计工程师",
+      "数字集成电路设计工程师",
+      "嵌入式软件开发工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:50:45",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/gYcnppJAspmFr3ak45iSGQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/gYcnppJAspmFr3ak45iSGQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "科技",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22189,
+    "name": "天岳先进",
+    "type": "民企",
+    "locations": [
+      "济南",
+      "济宁",
+      "上海",
+      "海外"
+    ],
+    "recruitment_type": "秋招提前批",
+    "target_candidates": "2027届",
+    "positions": [
+      "材料、物理、化学、机械自动化、销售、供应链、人力、行政、法务、财务等"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:48:51",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://sicc.feishu.cn/share/base/form/shrcnFUJ97ivIowI7VkfnTFIWld"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/LwmYc2oM1hg8bIQOYCkLpQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "其他",
+    "company_size": null
+  },
+  {
+    "id": 22188,
+    "name": "紫光国芯",
+    "type": "央国企",
+    "locations": [
+      "西安",
+      "成都",
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "器件工程师(博士)，模拟设计工程师，存储器设计分析与验证工程师，存储器数字设计工程师，ASIC前端工程师，固件工程师，ASIC后端工程师，SoC数字设计工程师，产品测试开发工程师，ASIC DFT工程师，ASIC后端工程师，产品工程师，SoC数字验证工程师，ASIC DFT工程师，ASIC后端工程师，存储器数字设计工程师、集成电路，微电子，电子类，通信类，计算机类，半导体材料类，软件类，测控类，优秀理工类学生"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:48:25",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://jobs.51job.com/all/coBWYFaF48DjQOaARvBWg.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/3CnZ5Zn1nsyDxNdDfycxiw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "科技,国企",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22187,
+    "name": "它石智航",
+    "type": "民企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "运动控制算法工程师，端到端大模型算法工程师，强化学习算法工程师，具身数据智能算法工程师，机器人通用软件开发工程师，机器人嵌入式开发工程师，AI Infra工程师，机器人运动仿真工程师，机器人力学仿真工程师，机器人热设计工程师，机器人结构设计工程师，机器人电子硬件工程师，机器人电气开发工程师，机器人电机控制工程师，灵巧手运动仿真工程师，灵巧手结构设计工程师，灵巧手电机设计工程师，灵巧手电机控制算法工程师，灵巧手系统集成工程师，机器人产品经理，机器人质量工程师，机器人工艺工程师，机器人测试工程师，助理销售经理，售前及解决方案助理工程师，财务专员"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:47:46",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://tarsrobot.jobs.feishu.cn/021343/"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/WJAc5xNJc9uA4VR7pw_XWQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "科技",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22185,
+    "name": "格科",
+    "type": "民企",
+    "locations": [
+      "上海",
+      "深圳",
+      "嘉兴"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "模拟电路设计工程师",
+      "数字电路设计工程师",
+      "数字后端设计工程师",
+      "模拟版图设计工程师",
+      "数字验证工程师",
+      "系统应用工程师",
+      "算法工程师",
+      "图像质量与验证工程师",
+      "工艺工程师_像素研发",
+      "工艺工程师_FAB",
+      "工艺工程师_封测",
+      "结构设计工程师",
+      "产品应用工程师",
+      "测试开发工程师",
+      "质量工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:46:55",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://gcoreinc.hotjob.cn/"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/TcPPyhCpurqc2bod0r-06g",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "科技",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22184,
+    "name": "联想",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "大连",
+      "哈尔滨",
+      "上海",
+      "南京",
+      "无锡",
+      "苏州",
+      "杭州",
+      "合肥",
+      "厦门",
+      "南昌",
+      "济南",
+      "郑州",
+      "武汉",
+      "深圳",
+      "海口",
+      "重庆",
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "技术方向市场与销售方向设计方向产品与项目方向供应链方向职能方向"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 11:46:12",
+    "deadline": "2026-11-13",
+    "related_links": [
+      "https://talent.lenovo.com.cn/position"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/d_yzv-jqsiFhvXBzqa0CNQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": null,
+    "industry": "科技,其他",
+    "company_size": null
+  },
+  {
+    "id": 22183,
+    "name": "柠檬微趣",
+    "type": "民企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "游戏引擎类AI应用类客户端类策划类数据类后台类运维类测试类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:22",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/apply/microfunhr/75944?sessionid=&amp",
+      "http://sourceToken=9d780ea2d73bdd21410dc0d0a9af1c28#/"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/zSoglSm2UFlRQkJhvfDKMw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22182,
+    "name": "上海立芯",
+    "type": "民企",
+    "locations": [
+      "上海北京福州长沙成都 西安深圳"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "EDA算法工程师 EDA测试工程师 AI平台工程师AIfor EDA算法工程师 EDA产品工程师 EDA应用工程师 后端设计工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:21",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/xvB0RIn5wcrCU4w-nS1CKA"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/xvB0RIn5wcrCU4w-nS1CKA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22181,
+    "name": "毕马威",
+    "type": "外企",
+    "locations": [
+      "北京、天津、沈阳、大连、上海、南京、无锡、苏州、南通、杭州、宁波、合肥、厦门、济南、青岛、郑州、武汉、长沙、广州、深圳、东莞、重庆、成都、西安、香港、澳门"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "审计、税务、咨询 相关专业：专业不限"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:19",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/kpmg/76195#/jobs?page=1&amp",
+      "http://anchorName=jobsList&amp",
+      "http://keyword="
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/s2pGhqLQlQywIvyR28BfpA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "商务服务/咨询",
+    "company_size": "员工数量10000～20000"
+  },
+  {
+    "id": 22180,
+    "name": "上海精测半导体",
+    "type": "民企",
+    "locations": [
+      "上海深圳 武汉"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "系统工程师 系统测试工程师 电子光学工程师 光学系统仿真工程师 光学工程师 光学测试工程师 机械工程师 结构工程师 电气工程师 硬件工程师算法工程师软件工程师产品工程师应用研究工程师现场应用工程师集成测试工程师产品支持工程师技术支持工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:18",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://pmish-tech.zhiye.com/campus/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/0MVH3FVEQCFwwp86n7cyxg",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22179,
+    "name": "极感科技",
+    "type": "民企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "高性能计算工程师 图像算法工程师-画质方向"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:16",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/mhr/146855?locale=zh-CN#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&amp",
+      "http://page=1&amp",
+      "http://anchorName=jobsList"
+    ],
+    "recruitment_notice": "https://app.mokahr.com/campus-recruitment/mhr/146855?locale=zh-CN#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&amp;page=1&amp;anchorName=jobsList",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22178,
+    "name": "赛乐医疗",
+    "type": "民企",
+    "locations": [
+      "江苏常州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "国內销售工程师 助理电子工程师影像算法工程师产品专员 赋能中心管培生国际市场专员海外销售工程师助理机械工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:15",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://sifary.zhiye.com/campus/jobs"
+    ],
+    "recruitment_notice": "https://sifary.zhiye.com/campus/jobs",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，部分岗位可能有笔试",
+    "industry": "生物制药/生命科学",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22177,
+    "name": "恪赛科技",
+    "type": "民企",
+    "locations": [
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "系统工程师 天线工程师射频工程师 通信工程师结构工程师 FPGA工程师 算法工程师嵌入式工程师 测试工程师 销售工程师 质量工程师采购工程师 财务专员人力专员项目管理专员"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:14",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/VKhZxhYyd5-rJImEpQW0Yg"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/VKhZxhYyd5-rJImEpQW0Yg",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22176,
+    "name": "爱科微科技",
+    "type": "民企",
+    "locations": [
+      "北京上海深圳 成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "软件测试工程师嵌入式软件工程师 数字设计工程师 硬件工程师 soc设计工程师算法工程师PM项目经理Profile/蓝牙开发工程师 BT固件开发工程师ATE岗 应用工程师模拟IC设计工程师射频Ic设计工程师 质量工程师FAE软件岗硬件工程师软件测试工程师AE应用工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-05 00:02:12",
+    "deadline": "2026-11-30",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/56rfzWFDQdwA9iEeZ6yvYg?click_id=1830359862"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/56rfzWFDQdwA9iEeZ6yvYg?click_id=1830359862",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量 300 以内"
+  },
+  {
     "id": 22175,
     "name": "施耐德电气",
     "type": "外企/合资",
