@@ -1,5 +1,764 @@
 [
   {
+    "id": 22247,
+    "name": "阿里巴巴千问事业部",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "广州",
+      "杭州",
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "基础算法、应用算法、AI应用研发、AI数据开发(内核、引擎、Alinfra、AgentInfra)、数据产品、运营、设计"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:27",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixinbridge.com/mp/wapredirect?url=httpscampus-talent.alibaba.comcampuspositionbatchId100000760001circleCode80256filterParams7B22customDept223A5B22R0Z1AC222C22QBH648222C22OP2"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/HeROqZDWSEmX4UN2gBGKhw",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "互联网",
+    "company_size": "员工数量5000～20000"
+  },
+  {
+    "id": 22246,
+    "name": "阿里控股",
+    "type": "民企",
+    "locations": [
+      "杭州",
+      "北京",
+      "上海",
+      "广州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "AI应用研发、AgentInfra基础平台研发、AI编译研发、AI框架软件、AI全栈开发、AIInfra软硬件结合、AI架构及后端(ABE)、安全技术、AIInfra移动端逆向测试开发、RAG引擎研发、大模型评测、AI安全技术、百炼MaaS网关、大模型应用开发、IT服务研发工程师、C、C++研发工程师、Java终端安全技术-移动、PC、WEB、AIAgent优化-训练、数据、评测、AI应用算法、AIAgent、AI安全、多模态数据合成、安全大模型、大模型应用、大语言模型、大模型后训练、药物基础模型、医学影像、计算机视觉、机器人感知、3D视频建模及压缩、医疗多模态大模型、RISC-V软件测试、AISoC关键技术研究、处理器AI架构、AI芯片与系统架构、芯片、处理器验证、芯片设计、验证、DFT、AISoC芯片架构与设计、芯片系统软件(RISC-V方向)、编译器与计算机体系结构(RISC-V方向)、高性能计算库优化(RISC-V方向)、AI数据、数据研发、数据分析、AI产品经理、AI产品运营、项目管理"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:24",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDeptP1ZVE7YKCNU12OAHS3R4NF3GUXLZSO"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/6gihCDeiJBL6N6_jKGgzBg",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "互联网",
+    "company_size": "员工数量10万以上"
+  },
+  {
+    "id": 22245,
+    "name": "阿里国际",
+    "type": "民企",
+    "locations": [
+      "杭州",
+      "北京",
+      "广州",
+      "深圳"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "技术类、客户体验类、运营类、风险类、数据类、市场营销类、产品类、其他类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:23",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDeptUGWZCC0NZ8T6JOQMU523DWTRAT1LW39SQM5Z"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/ifMOhvlcIM-W8IgwpYAzBQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "互联网",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22244,
+    "name": "Token Foundry",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "技术类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:22",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDeptQ5EOVE"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/c2aN56WxYYjvDQr6Je_Mog",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "软件技术",
+    "company_size": "未知"
+  },
+  {
+    "id": 22243,
+    "name": "平头哥",
+    "type": "民企",
+    "locations": [
+      "上海",
+      "北京",
+      "深圳",
+      "杭州",
+      "成都"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "系统应用技术工程师、工艺工程师、工艺整合工程师、良率工程师、智能制造算法工程师、智能制造工程师、工业工程工程师、工艺助理工程师、设备运维工程师、智能制造助理工程师、电力工程师、暖通机械工程师、气化工程师、水务工程师、工艺研发工程师、工艺整合研发工程师、器件研发工程师、设计服务工程师、产品工程师、失效分析工程师、工艺设计套件工程师、原物料计划工程师、生产规划工程师、IT开发工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:19",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDeptPQHNXW"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/r_svUbPz-aT9AFqhRAj8qQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "半导体",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22242,
+    "name": "飞猪",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "技术类、设计类、产品类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:18",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDept4SF7YDJQR1WHW9ALSO"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/WTOtXNqq57IJigNlyKJzlQ",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "互联网",
+    "company_size": "员工数量 1000～5000"
+  },
+  {
+    "id": 22241,
+    "name": "菜鸟",
+    "type": "民企",
+    "locations": [
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "算法类、数据类、研发类、物流类、产品类、职能类、运营类、销售类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:17",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDept3Z8SI7"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/rm2nSal_E-ezdYa9KhYWQg",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "仓储物流",
+    "company_size": "员工数量10000～100000"
+  },
+  {
+    "id": 22240,
+    "name": "阿里巴巴千问办公",
+    "type": "民企",
+    "locations": [
+      "杭州",
+      "上海",
+      "深圳"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "产运设类、安全类、研发类、硬件类、数据与算法类、综合类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:15",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/index"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/l0sNr1_qw_7ByDmZroq2-A",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "互联网",
+    "company_size": "员工数量5000～20000"
+  },
+  {
+    "id": 22239,
+    "name": "阿里健康",
+    "type": "民企",
+    "locations": [
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "AI应用算法工程师、算法工程师-自然语言处理、算法工程师-机器学习、数据分析师、行业运营、AI产品经理、AI数据工程师、市场营销、商家商品运营"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:26:13",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/index"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/ATedCla5Btu-Cus8_wd7Kw",
+    "notes": "",
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "生物/医药",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22234,
+    "name": "上海黄浦投资控股",
+    "type": "央国企",
+    "locations": [
+      "上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "投资业务岗",
+      "合规法务岗",
+      "综合管理部、人工智能、电子信息、生物医药、材料工程、数学、法学、工商管理、行政管理、企业管理、经济金融"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:53",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/GXHYONU2kXeTE8velQnVRQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/GXHYONU2kXeTE8velQnVRQ",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "银行/金融",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22233,
+    "name": "联想-AI专项",
+    "type": "民企",
+    "locations": [
+      "天津",
+      "上海",
+      "武汉",
+      "深圳",
+      "北京",
+      "成都",
+      "合肥",
+      "杭州",
+      "苏州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "AI 应用开发工程师，AI 模型工程师，AI 系统工程师，AI 云架构工程师，AI FDE 工程师，人机交互工程师，自动驾驶系统工程师，AI 安全工程师，AI 测试工程师，产品经理‑AI 方向，数据产品经理，解决方案产品经理，产品运营，自动化工程，供应链管理，算法工程师，计算机视觉，自然语言处理，AI 架构工程师，机器人具身智能研究，通用人工智能研究，技术服务支持工程师，数据运营工程师，数据开发工程师，AI 知识管理工程师，数据挖掘工程师，数据科学工程师，内容营销‑AIGC 方向，市场营销‑AI 方向，产品营销，机器人机电一体化工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:37",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://talent.lenovo.com.cn/position?aiJobFlag=1"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/PWH6oPUB7an7-MeNJhrlMw",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "有笔试",
+    "industry": "科技,其他",
+    "company_size": "未知"
+  },
+  {
+    "id": 22232,
+    "name": "砺算科技",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "南京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届,2026届",
+    "positions": [
+      "GPU架构建模工程师",
+      "GPU算法工程师",
+      "光线追踪算法工程师",
+      "深度学习算法开发工程师",
+      "AP/AI算法工程师",
+      "模型推理优化工程师",
+      "架构数据分析工程师",
+      "Gaphics C++软件工程师",
+      "ASIC数字前端设计工程师",
+      "ASIC数字前端验证工程师",
+      "SOC 设计验证工程师",
+      "硬件研发工程师",
+      "DFT工程师",
+      "IC物理设计工程师",
+      "C/C++ 软件开发工程师",
+      "嵌入式开发工程师",
+      "AI驱动工程师",
+      "3D应用开发工程师",
+      "编译器开发工程师",
+      "图形驱动工程师",
+      "多媒体驱动工程师",
+      "客户支持工程师、计算机科学与技术、图形学、电子信息类、微电子学、集成电路、软件工程、自动化、数学"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:33",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://www.lisuantech.com/join/campus-recruitment"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/oaqAnmkVsdvjVsLtrU5uhQ",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "科技",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22231,
+    "name": "联想集团2027全球管培生GFL项目",
+    "type": "民企",
+    "locations": [
+      "北京"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "Al Technology Innovation EngineerAl Solution ArchitectAl Cloud Solution ArchitectAl Cloud Product ManagerAl & Synthetic Data Engineer"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:50",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://talent.lenovo.com.cn/position?projectType=3"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/CXvjiZxPBov8Bzlj_yISfg",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "所有岗位需笔试，技术岗额外加试",
+    "industry": "其他,科技",
+    "company_size": "员工数量20000～100000"
+  },
+  {
+    "id": 22230,
+    "name": "寒武纪",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "南京",
+      "合肥",
+      "深圳",
+      "西安"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "芯片类",
+      "软件类",
+      "职能与研发支持类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:47",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/cambricon/44201#/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/rzDD_1biYq8hZNDm8rWklg",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "科技",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22228,
+    "name": "虎鲸文娱",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "杭州",
+      "西安"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "技术类",
+      "产品类",
+      "设计类",
+      "内容类",
+      "运营类",
+      "游戏类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:24",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDeptZ3LCXOL38HG1"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/sT97MmVjy6igBIYbpEn7uw",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "传媒/直播",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22227,
+    "name": "高德地图",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "AI应用算法",
+      "具身智能",
+      "世界模型",
+      "AI Agent",
+      "语音多模态",
+      "多模态",
+      "大模型应用",
+      "自然语言处理",
+      "机器学习",
+      "深度学习",
+      "搜索推荐",
+      "AI应用研发",
+      "大模型应用开发",
+      "大模型应用开发",
+      "大模型数据研发",
+      "Java",
+      "数据研发",
+      "数据科学",
+      "AI产品经理",
+      "产品经理",
+      "世界模型与具身智能研究",
+      "AI Native搜推算法工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:21",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&filterParams=customDeptH8XNGXGT90UP4KHBYK7695L40PUXGE9FKBXX2HYX5IP6159JCORMMP"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/xWcC6CNXqbPs26AaT8iysQ",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "有笔试",
+    "industry": "互联网",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22226,
+    "name": "灵犀互娱",
+    "type": "民企",
+    "locations": [
+      "北京",
+      "上海",
+      "广州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "游戏策划",
+      "游戏策划（SLG/MMO/卡牌/放置/箱庭）",
+      "文案策划（克苏鲁）",
+      "客户端",
+      "服务端",
+      "测试开发",
+      "技术美术",
+      "引擎开发（UE5）",
+      "AI算法",
+      "AI产品",
+      "AI搜索运营",
+      "大模型应用开发",
+      "多模态算法",
+      "原画",
+      "GUI",
+      "动作",
+      "特效",
+      "动效",
+      "模型",
+      "交互",
+      "产品经理",
+      "产品运营",
+      "游戏运营",
+      "游戏营销",
+      "媒体运营",
+      "音频制作",
+      "游戏美术项目管理",
+      "游戏服务体验管理"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:18",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&activeBannerKey=80265&circleCode=80265&filterParams=customDeptYQNHYU"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/z6hHu5X9NXnhsHR6_b2v1Q",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "有笔试",
+    "industry": "游戏",
+    "company_size": "员工数量5000～20000"
+  },
+  {
+    "id": 22225,
+    "name": "盒马",
+    "type": "民企",
+    "locations": [
+      "上海",
+      "杭州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "大模型应用开发",
+      "AI Agent 研发",
+      "AI架构及后端（ABE）",
+      "RAG引擎研发",
+      "前端开发",
+      "客户端开发",
+      "搜索推荐",
+      "运筹优化",
+      "供应链需求预测",
+      "供应链和定价AI",
+      "数据研发",
+      "数据科学家",
+      "产品经理",
+      "AI产品经理",
+      "AI Agent产品经理",
+      "AI产品运营",
+      "AI体验设计师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 12:28:11",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus-talent.alibaba.com/campus/position?batchId=100000760001&circleCode=80266&filterParams=customDeptSO65OM"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/6CiD18YzflColht0sGYUWA",
+    "notes": "",
+    "referral_code": "",
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "互联网,消费",
+    "company_size": "员工数量10000人以上"
+  },
+  {
+    "id": 22222,
+    "name": "德州仪器",
+    "type": "外企",
+    "locations": [
+      "上海成都北京深圳杭州苏州广州"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2025,2026,2027届",
+    "positions": [
+      "销售与市场研发业务支持质量生产制造-成都制造基地业务支持-成都制造基地"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:05:15",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/ti/143986?sourceToken=654bdeefdeafd58dacbeefe00a5aaf88#/jobs"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/Ku2F3j9dDIN442SvduQyPQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "德州仪器2026校招部分技术岗位有笔试环节，具体以岗位通知为准。",
+    "industry": "电子/半导体",
+    "company_size": "员工数量20000～100000"
+  },
+  {
+    "id": 22221,
+    "name": "德邦快递",
+    "type": "民企",
+    "locations": [
+      "上海全国"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "运营规划类解决方案类产品类财审类公共事务类人力资源类科技类客户体验类招采类区域岗位(经营方向/运营方向)"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:05:12",
+    "deadline": "招满为止",
+    "related_links": [
+      "http://zhaopin.deppon.com/campus"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/rvl7TUJjf616iwPUOn0Svw",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "没有笔试",
+    "industry": "交通运输/物流仓储",
+    "company_size": "员工数量10万以上"
+  },
+  {
+    "id": 22220,
+    "name": "亿联网络",
+    "type": "民企",
+    "locations": [
+      "厦门"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "营销类研发类产品类"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:05:07",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://yealink.zhiye.com/campus/jobs?sessionid="
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/gn8YT2cGNY0qrbQukAiY5w",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "部分岗位有笔试部分没有",
+    "industry": "互联网/人工智能",
+    "company_size": "员工数量1000～5000"
+  },
+  {
+    "id": 22219,
+    "name": "泉峰科技",
+    "type": "民企",
+    "locations": [
+      "南京上海越南"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "产品研发工程与制造质量与供应链销售与市场行政与综合管理"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:05:05",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://wecruit.hotjob.cn/SU6396cdcc0dcad40b2a419d69/pb/school.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/brvPEXLPrDXRxACQjzA4rA",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "没有笔试",
+    "industry": "机械装备/电气系统",
+    "company_size": "员工数量5000～20000"
+  },
+  {
+    "id": 22218,
+    "name": "华芯巨数微电子",
+    "type": "民企",
+    "locations": [
+      "杭州上海"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "算法工程师C++软件开发工程师/数字后端工程师 产品工程师 标准单元库设计工程师"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:05:03",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://mp.weixin.qq.com/s/UbWuIXzY_4G-M09-EiUOdQ"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/UbWuIXzY_4G-M09-EiUOdQ",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量300以内"
+  },
+  {
+    "id": 22217,
+    "name": "电科芯片吉芯科技",
+    "type": "央国企",
+    "locations": [
+      "重庆"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2027届",
+    "positions": [
+      "模拟Ic设计工程师数字Ic设计工程师[c测试工程师 失效分析工程师 IC应用工程师模块产品开发工程师版图设计工程师设备工程师调试岗"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:05:01",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://campus.51job.com/jxkj2026/about1.html"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/7BBpDIRu8q_yFr684Erp8Q",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "有笔试",
+    "industry": "电子/半导体",
+    "company_size": "员工数量1000以内"
+  },
+  {
+    "id": 22216,
+    "name": "温氏股份",
+    "type": "民企",
+    "locations": [
+      "云浮，肇庆，佛山，广州，揭阳，河源，江门，韶关，北京，安徽，福建，广西，贵州，海南，河北，湖北，湖南，吉林，江苏，江西，辽宁，中营，山东，山西全国其他"
+    ],
+    "recruitment_type": "秋招",
+    "target_candidates": "2026届,2027届",
+    "positions": [
+      "畜禽研发生产技术/技术服务机械工程生态环保建筑工程财务管理市场营销采购管理人力行政生物制药/药物制剂计算机信息化精益管理食品研发"
+    ],
+    "progress_status": "未投递",
+    "update_time": "2026-08-06 00:04:59",
+    "deadline": "招满为止",
+    "related_links": [
+      "https://app.mokahr.com/campus-recruitment/wens/92366?sessionid=#/jobs?project=100130145"
+    ],
+    "recruitment_notice": "https://mp.weixin.qq.com/s/4r82YEfMv3ADYDAili-30w",
+    "notes": null,
+    "referral_code": null,
+    "exam_info": "未明确，不清楚是否有笔试",
+    "industry": "农林/畜牧",
+    "company_size": "员工数量20000～100000"
+  },
+  {
     "id": 22215,
     "name": "阿里云2027届应届生招聘全球启动",
     "type": "民企",
