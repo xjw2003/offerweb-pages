@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>已投递岗位</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <h1>已投递岗位</h1>
+        <p>查看所有已标记投递的岗位</p>
+        <p><a href="./index.html">返回全部岗位</a></p>
+      </div>
+    </header>
+    <section id="resultList" class="result-list"></section>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="./supabase-config.js"></script>
+  <script src="./applied.js"></script>
+</body>
+</html>
