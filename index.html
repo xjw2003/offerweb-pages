@@ -6,23 +6,59 @@
     <title>2027届岗位筛选</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
-  <body>
+  <body data-page="all">
     <main class="app-shell">
       <header class="topbar">
-        <div>
-          <h1>2027届岗位筛选</h1>
-          <p id="sourceLabel">company_details_all_20260708_202426.json</p>
-        </div>
-        <div class="summary-strip">
-          <div>
-            <span id="totalCount">0</span>
-            <small>全部</small>
+        <div class="brand-block">
+          <div class="title-row">
+            <div>
+              <h1>2027届岗位筛选</h1>
+              <p id="sourceLabel">正在读取岗位数据</p>
+            </div>
+            <nav class="page-nav" aria-label="页面导航">
+              <a class="nav-link active" href="./index.html">全部岗位</a>
+              <a class="nav-link" href="./applied.html">已投递岗位</a>
+            </nav>
           </div>
-          <div>
-            <span id="filteredCount">0</span>
-            <small>当前</small>
+
+          <div class="summary-strip" aria-label="岗位统计">
+            <div>
+              <span id="totalCount">0</span>
+              <small>全部岗位</small>
+            </div>
+            <div>
+              <span id="filteredCount">0</span>
+              <small>当前结果</small>
+            </div>
+            <div class="summary-gold">
+              <span id="appliedCount">0</span>
+              <small>已投递</small>
+            </div>
+            <div>
+              <span id="lastUpdateCount">-</span>
+              <small>上次更新条数</small>
+            </div>
+            <div class="summary-time">
+              <span id="lastUpdateTime">-</span>
+              <small>上次更新时间</small>
+            </div>
           </div>
         </div>
+
+        <section class="auth-card" aria-label="账号登录">
+          <div id="signedOutPanel" class="auth-form">
+            <strong>同步投递状态</strong>
+            <input id="emailInput" type="email" placeholder="邮箱" autocomplete="username" />
+            <input id="passwordInput" type="password" placeholder="密码" autocomplete="current-password" />
+            <button id="loginButton" class="primary-button" type="button">登录</button>
+          </div>
+          <div id="signedInPanel" class="auth-user" hidden>
+            <span>当前账号</span>
+            <strong id="userEmail">-</strong>
+            <button id="logoutButton" type="button">退出登录</button>
+          </div>
+          <p id="authMessage" class="auth-message" aria-live="polite"></p>
+        </section>
       </header>
 
       <section class="controls" aria-label="筛选条件">
@@ -86,6 +122,10 @@
       </section>
     </main>
 
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./supabase-config.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
